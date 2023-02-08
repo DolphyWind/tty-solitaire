@@ -1,3 +1,11 @@
+# New features
+- Automatically uncovers the top card of a stack
+- Much more keys to move around
+
+# TODO
+- Automatically moving cards.
+- You win animation
+
 # -*-org-*-
 
 * tty-solitaire
