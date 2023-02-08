@@ -15,3 +15,4 @@
 - automatic moving of cards (think windows solitaire)
 - move without cursor (a digit for each stack)
 - move like a hacker (e.g 'm03m2' == move 3 cards from maneuvre 0 to maneuvre 2)
+- You win animation
