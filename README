@@ -4,10 +4,6 @@
    - Automatically uncovers the top cards on manuevres
    - Has more shortcuts to move faster in game
 
-*** TODO
-   - Win animation
-   - Automatically move a card
-
 * tty-solitaire
   Ncurses-based klondike solitaire game.
 
